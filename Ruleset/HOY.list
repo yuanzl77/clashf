@@ -1,0 +1,10 @@
+# HOY tv
+
+
+DOMAIN-KEYWORD,hoy
+DOMAIN-SUFFIX,hoy.tv
+DOMAIN-SUFFIX,api2.hoy.tv
+DOMAIN-SUFFIX,live-stream.hoy.tv
+DOMAIN-SUFFIX,storage.hoy.tv
+DOMAIN-SUFFIX,epg-file.hoy.tv
+DOMAIN-SUFFIX,seaovers.live
